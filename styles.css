@@ -22,8 +22,12 @@ body {
     width: 50px;
   }
 
-  p .link {
+  p a {
     color: #947878;
+  }
+
+  p h3 {
+    color: #121336;
   }
 
   image {
@@ -79,7 +83,7 @@ body {
     border-width: medium;
   }
   a {
-    color: #FBCEB1;
+    color: #b1ddfb;
   }
   a:hover {
     color:  #fa8072;
