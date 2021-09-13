@@ -31,7 +31,7 @@ body {
   }
 
   image {
-    float:left;
+    float:center;
     width: 20%;
   }
 
@@ -84,6 +84,7 @@ body {
   }
   a {
     color: #b1ddfb;
+    text-decoration: none;
   }
   a:hover {
     color:  #fa8072;
